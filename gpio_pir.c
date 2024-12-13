@@ -10,7 +10,7 @@
 #define PIR_SENSOR 529  // Pin number on Raspberry Pi GPIO
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("TEAM1");
+MODULE_AUTHOR("AVINASH");
 MODULE_DESCRIPTION("A Simple GPIO Driver for Raspberry Pi");
 MODULE_VERSION("1.0");
 
